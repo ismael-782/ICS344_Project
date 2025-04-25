@@ -1,12 +1,13 @@
 # ICS344_Project
 
-## Team
+## Team 6
 
-| Name           | ID        |
-|----------------|-----------|
-| Ismael Arqsosi | 202182150 |
-| Taha Ali       | 202045620 |
-| Saad Alharbi   | 201935590 |
+| Name           | ID        | Phase   |
+|----------------|-----------|---------|
+| Ismael Arqsosi | 202182150 | Phase#1 |
+| Taha Ali       | 202045620 | Phase#3 |
+| Saad Alharbi   | 201935590 | Phase#2 |
+
 
 
 # Phase 1: Exploitation
